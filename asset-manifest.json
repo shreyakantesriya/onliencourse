@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/onliencourse/static/css/main.601e36b9.chunk.css",
+    "main.js": "/onliencourse/static/js/main.575a4fd6.chunk.js",
+    "main.js.map": "/onliencourse/static/js/main.575a4fd6.chunk.js.map",
+    "runtime-main.js": "/onliencourse/static/js/runtime-main.ec6ae7fa.js",
+    "runtime-main.js.map": "/onliencourse/static/js/runtime-main.ec6ae7fa.js.map",
+    "static/css/2.f2512455.chunk.css": "/onliencourse/static/css/2.f2512455.chunk.css",
+    "static/js/2.bfc05e0d.chunk.js": "/onliencourse/static/js/2.bfc05e0d.chunk.js",
+    "static/js/2.bfc05e0d.chunk.js.map": "/onliencourse/static/js/2.bfc05e0d.chunk.js.map",
+    "index.html": "/onliencourse/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/onliencourse/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.601e36b9.chunk.css.map": "/onliencourse/static/css/main.601e36b9.chunk.css.map",
+    "static/js/2.bfc05e0d.chunk.js.LICENSE.txt": "/onliencourse/static/js/2.bfc05e0d.chunk.js.LICENSE.txt",
+    "static/media/4.9dd4675d.jpg": "/onliencourse/static/media/4.9dd4675d.jpg",
+    "static/media/AI_IBM.34fca31e.jpeg": "/onliencourse/static/media/AI_IBM.34fca31e.jpeg",
+    "static/media/aws.f0a7d883.png": "/onliencourse/static/media/aws.f0a7d883.png",
+    "static/media/cc.83d1c2dc.png": "/onliencourse/static/media/cc.83d1c2dc.png",
+    "static/media/cloude.187323a6.jpg": "/onliencourse/static/media/cloude.187323a6.jpg",
+    "static/media/compny.4be2d752.jpg": "/onliencourse/static/media/compny.4be2d752.jpg",
+    "static/media/coures.94aef1e4.svg": "/onliencourse/static/media/coures.94aef1e4.svg",
+    "static/media/cs.ed503e09.jpg": "/onliencourse/static/media/cs.ed503e09.jpg",
+    "static/media/data_scince.83b775f6.jpg": "/onliencourse/static/media/data_scince.83b775f6.jpg",
+    "static/media/digitalimg.a44a0d29.jpg": "/onliencourse/static/media/digitalimg.a44a0d29.jpg",
+    "static/media/ethical.e93c2edf.jpg": "/onliencourse/static/media/ethical.e93c2edf.jpg",
+    "static/media/ml.e5027ceb.jpg": "/onliencourse/static/media/ml.e5027ceb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6ae7fa.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.bfc05e0d.chunk.js",
+    "static/css/main.601e36b9.chunk.css",
+    "static/js/main.575a4fd6.chunk.js"
+  ]
+}
